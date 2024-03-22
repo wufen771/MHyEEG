@@ -1,0 +1,714 @@
+                                                                                                                                | 57/565 [00:19<02:20,  3.61it/s]Video start index: 2
+Video end index: 3247
+Preprocessing:  10%|█████████████████████████▏                                                                                                                                                                                                                           | 58/565 [00:19<02:16,  3.71it/s]Video start index: 2
+Video end index: 2591
+Preprocessing:  10%|█████████████████████████▌                                                                                                                                                                                                                           | 59/565 [00:19<02:07,  3.98it/s]Video start index: 2
+Video end index: 4627
+Preprocessing:  11%|██████████████████████████                                                                                                                                                                                                                           | 60/565 [00:19<02:15,  3.72it/s]Video start index: 2
+Video end index: 4273
+Preprocessing:  11%|██████████████████████████▍                                                                                                                                                                                                                          | 61/565 [00:20<02:23,  3.52it/s]Video start index: 2
+Video end index: 4334
+Preprocessing:  11%|██████████████████████████▉                                                                                                                                                                                                                          | 62/565 [00:20<02:25,  3.45it/s]Video start index: 2
+Video end index: 5237
+Preprocessing:  11%|███████████████████████████▎                                                                                                                                                                                                                         | 63/565 [00:20<02:33,  3.28it/s]Video start index: 2
+Video end index: 5926
+Preprocessing:  11%|███████████████████████████▊                                                                                                                                                                                                                         | 64/565 [00:21<02:41,  3.11it/s]Video start index: 2
+Video end index: 5289
+Preprocessing:  12%|████████████████████████████▏                                                                                                                                                                                                                        | 65/565 [00:21<02:42,  3.07it/s]Video start index: 2
+Video end index: 3549
+Preprocessing:  12%|████████████████████████████▌                                                                                                                                                                                                                        | 66/565 [00:21<02:31,  3.30it/s]Video start index: 2
+Video end index: 5404
+Preprocessing:  12%|█████████████████████████████                                                                                                                                                                                                                        | 67/565 [00:22<02:38,  3.13it/s]Video start index: 2
+Video end index: 7035
+Preprocessing:  12%|█████████████████████████████▍                                                                                                                                                                                                                       | 68/565 [00:22<02:52,  2.88it/s]Video start index: 2
+Video end index: 5832
+Preprocessing:  12%|█████████████████████████████▉                                                                                                                                                                                                                       | 69/565 [00:23<02:57,  2.80it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  12%|██████████████████████████████▎                                                                                                                                                                                                                      | 70/565 [00:23<02:59,  2.76it/s]Video start index: 2
+Video end index: 3553
+Preprocessing:  13%|██████████████████████████████▊                                                                                                                                                                                                                      | 71/565 [00:23<02:42,  3.04it/s]Video start index: 2
+Video end index: 5167
+Preprocessing:  13%|███████████████████████████████▏                                                                                                                                                                                                                     | 72/565 [00:24<02:42,  3.03it/s]Video start index: 2
+Video end index: 5398
+Preprocessing:  13%|███████████████████████████████▋                                                                                                                                                                                                                     | 73/565 [00:24<02:46,  2.95it/s]Video start index: 2
+Video end index: 5404
+Preprocessing:  13%|████████████████████████████████                                                                                                                                                                                                                     | 74/565 [00:24<02:48,  2.91it/s]Video start index: 2
+Video end index: 6309
+Preprocessing:  13%|████████████████████████████████▌                                                                                                                                                                                                                    | 75/565 [00:25<02:54,  2.81it/s]Video start index: 2
+Video end index: 2107
+Preprocessing:  13%|████████████████████████████████▉                                                                                                                                                                                                                    | 76/565 [00:25<02:28,  3.29it/s]Video start index: 2
+Video end index: 6854
+Preprocessing:  14%|█████████████████████████████████▍                                                                                                                                                                                                                   | 77/565 [00:25<02:42,  3.01it/s]Video start index: 2
+Video end index: 7036
+Preprocessing:  14%|█████████████████████████████████▊                                                                                                                                                                                                                   | 78/565 [00:26<02:57,  2.75it/s]Video start index: 2
+Video end index: 3552
+Preprocessing:  14%|██████████████████████████████████▎                                                                                                                                                                                                                  | 79/565 [00:26<02:41,  3.00it/s]Video start index: 2
+Video end index: 5837
+Preprocessing:  14%|██████████████████████████████████▋                                                                                                                                                                                                                  | 80/565 [00:26<02:46,  2.91it/s]Video start index: 2
+Video end index: 5924
+Preprocessing:  14%|███████████████████████████████████                                                                                                                                                                                                                  | 81/565 [00:27<02:50,  2.84it/s]Video start index: 2
+Video end index: 5167
+Preprocessing:  15%|███████████████████████████████████▌                                                                                                                                                                                                                 | 82/565 [00:27<02:48,  2.87it/s]Video start index: 2
+Video end index: 4334
+Preprocessing:  15%|███████████████████████████████████▉                                                                                                                                                                                                                 | 83/565 [00:27<02:41,  2.99it/s]Video start index: 2
+Video end index: 5404
+Preprocessing:  15%|████████████████████████████████████▍                                                                                                                                                                                                                | 84/565 [00:28<02:43,  2.93it/s]Video start index: 2
+Video end index: 4632
+Preprocessing:  15%|████████████████████████████████████▊                                                                                                                                                                                                                | 85/565 [00:28<02:39,  3.02it/s]Video start index: 2
+Video end index: 2106
+Preprocessing:  15%|█████████████████████████████████████▎                                                                                                                                                                                                               | 86/565 [00:28<02:20,  3.41it/s]Video start index: 2
+Video end index: 3246
+Preprocessing:  15%|█████████████████████████████████████▋                                                                                                                                                                                                               | 87/565 [00:28<02:12,  3.60it/s]Video start index: 2
+Video end index: 6852
+Preprocessing:  16%|██████████████████████████████████████▏                                                                                                                                                                                                              | 88/565 [00:29<02:34,  3.09it/s]Video start index: 2
+Video end index: 2593
+Preprocessing:  16%|██████████████████████████████████████▌                                                                                                                                                                                                              | 89/565 [00:29<02:17,  3.47it/s]Video start index: 2
+Video end index: 6311
+Preprocessing:  16%|███████████████████████████████████████                                                                                                                                                                                                              | 90/565 [00:29<02:30,  3.15it/s]Video start index: 2
+Video end index: 4272
+Preprocessing:  16%|███████████████████████████████████████▍                                                                                                                                                                                                             | 91/565 [00:30<02:29,  3.16it/s]Video start index: 2
+Video end index: 5400
+Preprocessing:  16%|███████████████████████████████████████▉                                                                                                                                                                                                             | 92/565 [00:30<02:35,  3.04it/s]Video start index: 2
+Video end index: 5233
+Preprocessing:  16%|████████████████████████████████████████▎                                                                                                                                                                                                            | 93/565 [00:30<02:36,  3.03it/s]Video start index: 2
+Video end index: 3552
+Preprocessing:  17%|████████████████████████████████████████▊                                                                                                                                                                                                            | 94/565 [00:31<02:24,  3.27it/s]Video start index: 2
+Video end index: 5290
+Preprocessing:  17%|█████████████████████████████████████████▏                                                                                                                                                                                                           | 95/565 [00:31<02:27,  3.19it/s]Video start index: 2
+Video end index: 5833
+Preprocessing:  17%|█████████████████████████████████████████▋                                                                                                                                                                                                           | 96/565 [00:31<02:35,  3.02it/s]Video start index: 2
+Video end index: 5402
+Preprocessing:  17%|██████████████████████████████████████████                                                                                                                                                                                                           | 97/565 [00:32<02:37,  2.96it/s]Video start index: 2
+Video end index: 3548
+Preprocessing:  17%|██████████████████████████████████████████▍                                                                                                                                                                                                          | 98/565 [00:32<02:26,  3.20it/s]Video start index: 2
+Video end index: 5924
+Preprocessing:  18%|██████████████████████████████████████████▉                                                                                                                                                                                                          | 99/565 [00:32<02:34,  3.01it/s]Video start index: 2
+Video end index: 7030
+Preprocessing:  18%|███████████████████████████████████████████▏                                                                                                                                                                                                        | 100/565 [00:33<02:49,  2.74it/s]Video start index: 2
+Video end index: 4327
+Preprocessing:  18%|███████████████████████████████████████████▌                                                                                                                                                                                                        | 101/565 [00:33<02:42,  2.86it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  18%|████████████████████████████████████████████                                                                                                                                                                                                        | 102/565 [00:33<02:45,  2.79it/s]Video start index: 2
+Video end index: 4628
+Preprocessing:  18%|████████████████████████████████████████████▍                                                                                                                                                                                                       | 103/565 [00:34<02:39,  2.89it/s]Video start index: 2
+Video end index: 5173
+Preprocessing:  18%|████████████████████████████████████████████▉                                                                                                                                                                                                       | 104/565 [00:34<02:38,  2.91it/s]Video start index: 2
+Video end index: 3248
+Preprocessing:  19%|█████████████████████████████████████████████▎                                                                                                                                                                                                      | 105/565 [00:34<02:24,  3.19it/s]Video start index: 2
+Video end index: 5402
+Preprocessing:  19%|█████████████████████████████████████████████▊                                                                                                                                                                                                      | 106/565 [00:35<02:27,  3.10it/s]Video start index: 2
+Video end index: 2592
+Preprocessing:  19%|██████████████████████████████████████████████▏                                                                                                                                                                                                     | 107/565 [00:35<02:12,  3.46it/s]Video start index: 2
+Video end index: 2105
+Preprocessing:  19%|██████████████████████████████████████████████▋                                                                                                                                                                                                     | 108/565 [00:35<01:57,  3.87it/s]Video start index: 2
+Video end index: 4266
+Preprocessing:  19%|███████████████████████████████████████████████                                                                                                                                                                                                     | 109/565 [00:35<02:02,  3.72it/s]Video start index: 2
+Video end index: 6853
+Preprocessing:  19%|███████████████████████████████████████████████▌                                                                                                                                                                                                    | 110/565 [00:36<02:22,  3.20it/s]Video start index: 2
+Video end index: 5234
+Preprocessing:  20%|███████████████████████████████████████████████▉                                                                                                                                                                                                    | 111/565 [00:36<02:24,  3.15it/s]Video start index: 2
+Video end index: 6313
+Preprocessing:  20%|████████████████████████████████████████████████▎                                                                                                                                                                                                   | 112/565 [00:37<02:33,  2.95it/s]Video start index: 2
+Video end index: 5290
+Preprocessing:  20%|████████████████████████████████████████████████▊                                                                                                                                                                                                   | 113/565 [00:37<02:35,  2.90it/s]Video start index: 2
+Video end index: 5397
+Preprocessing:  20%|█████████████████████████████████████████████████▏                                                                                                                                                                                                  | 114/565 [00:37<02:38,  2.84it/s]Video start index: 2
+Video end index: 5401
+Preprocessing:  20%|█████████████████████████████████████████████████▋                                                                                                                                                                                                  | 115/565 [00:38<02:38,  2.84it/s]Video start index: 2
+Video end index: 3552
+Preprocessing:  21%|██████████████████████████████████████████████████                                                                                                                                                                                                  | 116/565 [00:38<02:24,  3.11it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  21%|██████████████████████████████████████████████████▌                                                                                                                                                                                                 | 117/565 [00:38<02:28,  3.02it/s]Video start index: 2
+Video end index: 5925
+Preprocessing:  21%|██████████████████████████████████████████████████▉                                                                                                                                                                                                 | 118/565 [00:39<02:32,  2.93it/s]Video start index: 2
+Video end index: 4329
+Preprocessing:  21%|███████████████████████████████████████████████████▍                                                                                                                                                                                                | 119/565 [00:39<02:27,  3.03it/s]Video start index: 2
+Video end index: 3548
+Preprocessing:  21%|███████████████████████████████████████████████████▊                                                                                                                                                                                                | 120/565 [00:39<02:16,  3.27it/s]Video start index: 2
+Video end index: 4627
+Preprocessing:  21%|████████████████████████████████████████████████████▎                                                                                                                                                                                               | 121/565 [00:39<02:16,  3.25it/s]Video start index: 2
+Video end index: 7034
+Preprocessing:  22%|████████████████████████████████████████████████████▋                                                                                                                                                                                               | 122/565 [00:40<02:31,  2.92it/s]Video start index: 2
+Video end index: 3246
+Preprocessing:  22%|█████████████████████████████████████████████████████                                                                                                                                                                                               | 123/565 [00:40<02:18,  3.20it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  22%|█████████████████████████████████████████████████████▌                                                                                                                                                                                              | 124/565 [00:40<02:24,  3.06it/s]Video start index: 2
+Video end index: 2592
+Preprocessing:  22%|█████████████████████████████████████████████████████▉                                                                                                                                                                                              | 125/565 [00:41<02:06,  3.47it/s]Video start index: 2
+Video end index: 5173
+Preprocessing:  22%|██████████████████████████████████████████████████████▍                                                                                                                                                                                             | 126/565 [00:41<02:12,  3.32it/s]Video start index: 2
+Video end index: 4268
+Preprocessing:  22%|██████████████████████████████████████████████████████▊                                                                                                                                                                                             | 127/565 [00:41<02:10,  3.35it/s]Video start index: 2
+Video end index: 5402
+Preprocessing:  23%|███████████████████████████████████████████████████████▎                                                                                                                                                                                            | 128/565 [00:42<02:18,  3.15it/s]Video start index: 2
+Video end index: 5233
+Preprocessing:  23%|███████████████████████████████████████████████████████▋                                                                                                                                                                                            | 129/565 [00:42<02:22,  3.07it/s]Video start index: 2
+Video end index: 2105
+Preprocessing:  23%|████████████████████████████████████████████████████████▏                                                                                                                                                                                           | 130/565 [00:42<02:03,  3.53it/s]Video start index: 2
+Video end index: 5288
+Preprocessing:  23%|████████████████████████████████████████████████████████▌                                                                                                                                                                                           | 131/565 [00:43<02:09,  3.34it/s]Video start index: 2
+Video end index: 6853
+Preprocessing:  23%|█████████████████████████████████████████████████████████                                                                                                                                                                                           | 132/565 [00:43<02:23,  3.03it/s]Video start index: 2
+Video end index: 5402
+Preprocessing:  24%|█████████████████████████████████████████████████████████▍                                                                                                                                                                                          | 133/565 [00:43<02:24,  2.99it/s]Video start index: 2
+Video end index: 6317
+Preprocessing:  24%|█████████████████████████████████████████████████████████▊                                                                                                                                                                                          | 134/565 [00:44<02:32,  2.83it/s]Video start index: 2
+Video end index: 5830
+Preprocessing:  24%|██████████████████████████████████████████████████████████▎                                                                                                                                                                                         | 135/565 [00:44<02:32,  2.82it/s]Video start index: 2
+Video end index: 5399
+Preprocessing:  24%|██████████████████████████████████████████████████████████▋                                                                                                                                                                                         | 136/565 [00:44<02:33,  2.80it/s]Video start index: 2
+Video end index: 3552
+Preprocessing:  24%|███████████████████████████████████████████████████████████▏                                                                                                                                                                                        | 137/565 [00:45<02:21,  3.02it/s]Video start index: 2
+Video end index: 4335
+Preprocessing:  24%|███████████████████████████████████████████████████████████▌                                                                                                                                                                                        | 138/565 [00:45<02:21,  3.02it/s]Video start index: 2
+Video end index: 4628
+Preprocessing:  25%|████████████████████████████████████████████████████████████                                                                                                                                                                                        | 139/565 [00:45<02:19,  3.05it/s]Video start index: 2
+Video end index: 5929
+Preprocessing:  25%|████████████████████████████████████████████████████████████▍                                                                                                                                                                                       | 140/565 [00:46<02:26,  2.89it/s]Video start index: 2
+Video end index: 3248
+Preprocessing:  25%|████████████████████████████████████████████████████████████▉                                                                                                                                                                                       | 141/565 [00:46<02:13,  3.19it/s]Video start index: 2
+Video end index: 3553
+Preprocessing:  25%|█████████████████████████████████████████████████████████████▎                                                                                                                                                                                      | 142/565 [00:46<02:05,  3.37it/s]Video start index: 2
+Video end index: 2586
+Preprocessing:  25%|█████████████████████████████████████████████████████████████▊                                                                                                                                                                                      | 143/565 [00:46<01:54,  3.69it/s]Video start index: 2
+Video end index: 7034
+Preprocessing:  25%|██████████████████████████████████████████████████████████████▏                                                                                                                                                                                     | 144/565 [00:47<02:16,  3.08it/s]Video start index: 2
+Video end index: 4267
+Preprocessing:  26%|██████████████████████████████████████████████████████████████▌                                                                                                                                                                                     | 145/565 [00:47<02:17,  3.05it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  26%|███████████████████████████████████████████████████████████████                                                                                                                                                                                     | 146/565 [00:48<02:25,  2.89it/s]Video start index: 2
+Video end index: 5235
+Preprocessing:  26%|███████████████████████████████████████████████████████████████▍                                                                                                                                                                                    | 147/565 [00:48<02:27,  2.84it/s]Video start index: 2
+Video end index: 5170
+Preprocessing:  26%|███████████████████████████████████████████████████████████████▉                                                                                                                                                                                    | 148/565 [00:48<02:25,  2.86it/s]Video start index: 2
+Video end index: 5289
+Preprocessing:  26%|████████████████████████████████████████████████████████████████▎                                                                                                                                                                                   | 149/565 [00:49<02:27,  2.82it/s]Video start index: 2
+Video end index: 5402
+Preprocessing:  27%|████████████████████████████████████████████████████████████████▊                                                                                                                                                                                   | 150/565 [00:49<02:26,  2.83it/s]Video start index: 2
+Video end index: 5402
+Preprocessing:  27%|█████████████████████████████████████████████████████████████████▏                                                                                                                                                                                  | 151/565 [00:49<02:26,  2.82it/s]Video start index: 2
+Video end index: 2106
+Preprocessing:  27%|█████████████████████████████████████████████████████████████████▋                                                                                                                                                                                  | 152/565 [00:50<02:05,  3.30it/s]Video start index: 2
+Video end index: 5835
+Preprocessing:  27%|██████████████████████████████████████████████████████████████████                                                                                                                                                                                  | 153/565 [00:50<02:12,  3.12it/s]Video start index: 2
+Video end index: 6850
+Preprocessing:  27%|██████████████████████████████████████████████████████████████████▌                                                                                                                                                                                 | 154/565 [00:50<02:21,  2.90it/s]Video start index: 2
+Video end index: 3551
+Preprocessing:  27%|██████████████████████████████████████████████████████████████████▉                                                                                                                                                                                 | 155/565 [00:51<02:09,  3.16it/s]Video start index: 2
+Video end index: 6310
+Preprocessing:  28%|███████████████████████████████████████████████████████████████████▎                                                                                                                                                                                | 156/565 [00:51<02:18,  2.95it/s]Video start index: 2
+Video end index: 5397
+Preprocessing:  28%|███████████████████████████████████████████████████████████████████▊                                                                                                                                                                                | 157/565 [00:51<02:20,  2.91it/s]Video start index: 2
+Video end index: 4635
+Preprocessing:  28%|████████████████████████████████████████████████████████████████████▏                                                                                                                                                                               | 158/565 [00:52<02:17,  2.96it/s]Video start index: 2
+Video end index: 3308
+Preprocessing:  28%|████████████████████████████████████████████████████████████████████▋                                                                                                                                                                               | 159/565 [00:52<02:04,  3.27it/s]Video start index: 2
+Video end index: 4337
+Preprocessing:  28%|█████████████████████████████████████████████████████████████████████                                                                                                                                                                               | 160/565 [00:52<02:02,  3.32it/s]Video start index: 2
+Video end index: 2591
+Preprocessing:  28%|█████████████████████████████████████████████████████████████████████▌                                                                                                                                                                              | 161/565 [00:52<01:50,  3.67it/s]Video start index: 2
+Video end index: 5930
+Preprocessing:  29%|█████████████████████████████████████████████████████████████████████▉                                                                                                                                                                              | 162/565 [00:53<01:59,  3.37it/s]Video start index: 2
+Video end index: 4267
+Preprocessing:  29%|██████████████████████████████████████████████████████████████████████▍                                                                                                                                                                             | 163/565 [00:53<02:00,  3.35it/s]Video start index: 2
+Video end index: 3548
+Preprocessing:  29%|██████████████████████████████████████████████████████████████████████▊                                                                                                                                                                             | 164/565 [00:53<01:53,  3.52it/s]Video start index: 2
+Video end index: 5236
+Preprocessing:  29%|███████████████████████████████████████████████████████████████████████▎                                                                                                                                                                            | 165/565 [00:54<01:59,  3.35it/s]Video start index: 2
+Video end index: 7032
+Preprocessing:  29%|███████████████████████████████████████████████████████████████████████▋                                                                                                                                                                            | 166/565 [00:54<02:12,  3.01it/s]Video start index: 2
+Video end index: 5291
+Preprocessing:  30%|████████████████████████████████████████████████████████████████████████                                                                                                                                                                            | 167/565 [00:54<02:15,  2.93it/s]Video start index: 2
+Video end index: 5839
+Preprocessing:  30%|████████████████████████████████████████████████████████████████████████▌                                                                                                                                                                           | 168/565 [00:55<02:18,  2.86it/s]Video start index: 2
+Video end index: 5405
+Preprocessing:  30%|████████████████████████████████████████████████████████████████████████▉                                                                                                                                                                           | 169/565 [00:55<02:16,  2.89it/s]Video start index: 2
+Video end index: 5173
+Preprocessing:  30%|█████████████████████████████████████████████████████████████████████████▍                                                                                                                                                                          | 170/565 [00:55<02:14,  2.93it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  30%|█████████████████████████████████████████████████████████████████████████▊                                                                                                                                                                          | 171/565 [00:56<02:16,  2.89it/s]Video start index: 2
+Video end index: 3247
+Preprocessing:  30%|██████████████████████████████████████████████████████████████████████████▎                                                                                                                                                                         | 172/565 [00:56<02:03,  3.17it/s]Video start index: 2
+Video end index: 2591
+Preprocessing:  31%|██████████████████████████████████████████████████████████████████████████▋                                                                                                                                                                         | 173/565 [00:56<01:50,  3.56it/s]Video start index: 2
+Video end index: 4628
+Preprocessing:  31%|███████████████████████████████████████████████████████████████████████████▏                                                                                                                                                                        | 174/565 [00:57<01:53,  3.46it/s]Video start index: 2
+Video end index: 4267
+Preprocessing:  31%|███████████████████████████████████████████████████████████████████████████▌                                                                                                                                                                        | 175/565 [00:57<01:53,  3.44it/s]Video start index: 2
+Video end index: 4333
+Preprocessing:  31%|████████████████████████████████████████████████████████████████████████████                                                                                                                                                                        | 176/565 [00:57<01:53,  3.44it/s]Video start index: 2
+Video end index: 5266
+Preprocessing:  31%|████████████████████████████████████████████████████████████████████████████▍                                                                                                                                                                       | 177/565 [00:57<01:59,  3.25it/s]Video start index: 2
+Video end index: 5925
+Preprocessing:  32%|████████████████████████████████████████████████████████████████████████████▊                                                                                                                                                                       | 178/565 [00:58<02:05,  3.09it/s]Video start index: 2
+Video end index: 5290
+Preprocessing:  32%|█████████████████████████████████████████████████████████████████████████████▎                                                                                                                                                                      | 179/565 [00:58<02:06,  3.05it/s]Video start index: 2
+Video end index: 3550
+Preprocessing:  32%|█████████████████████████████████████████████████████████████████████████████▋                                                                                                                                                                      | 180/565 [00:58<01:57,  3.27it/s]Video start index: 2
+Video end index: 5402
+Preprocessing:  32%|██████████████████████████████████████████████████████████████████████████████▏                                                                                                                                                                     | 181/565 [00:59<02:01,  3.16it/s]Video start index: 2
+Video end index: 7029
+Preprocessing:  32%|██████████████████████████████████████████████████████████████████████████████▌                                                                                                                                                                     | 182/565 [00:59<02:11,  2.90it/s]Video start index: 2
+Video end index: 5833
+Preprocessing:  32%|███████████████████████████████████████████████████████████████████████████████                                                                                                                                                                     | 183/565 [01:00<02:13,  2.85it/s]Video start index: 2
+Video end index: 5829
+Preprocessing:  33%|███████████████████████████████████████████████████████████████████████████████▍                                                                                                                                                                    | 184/565 [01:00<02:13,  2.85it/s]Video start index: 2
+Video end index: 3547
+Preprocessing:  33%|███████████████████████████████████████████████████████████████████████████████▉                                                                                                                                                                    | 185/565 [01:00<02:00,  3.15it/s]gaze_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1200\P10-Rec1-All-Data-New_Section_30.tsv
+Preprocessing:  33%|████████████████████████████████████████████████████████████████████████████████▎                                                                                                                                                                   | 186/565 [01:00<01:40,  3.78it/s]Video start index: 2
+Video end index: 5404
+Preprocessing:  33%|████████████████████████████████████████████████████████████████████████████████▊                                                                                                                                                                   | 187/565 [01:01<01:47,  3.53it/s]Video start index: 2
+Video end index: 5404
+Preprocessing:  33%|█████████████████████████████████████████████████████████████████████████████████▏                                                                                                                                                                  | 188/565 [01:01<01:52,  3.36it/s]Video start index: 2
+Video end index: 6358
+Preprocessing:  33%|█████████████████████████████████████████████████████████████████████████████████▌                                                                                                                                                                  | 189/565 [01:01<02:00,  3.11it/s]Video start index: 2
+Video end index: 2112
+Preprocessing:  34%|██████████████████████████████████████████████████████████████████████████████████                                                                                                                                                                  | 190/565 [01:01<01:44,  3.58it/s]Video start index: 2
+Video end index: 6851
+Preprocessing:  34%|██████████████████████████████████████████████████████████████████████████████████▍                                                                                                                                                                 | 191/565 [01:02<01:56,  3.21it/s]Video start index: 2
+Video end index: 4267
+Preprocessing:  34%|██████████████████████████████████████████████████████████████████████████████████▉                                                                                                                                                                 | 192/565 [01:02<01:54,  3.26it/s]Video start index: 2
+Video end index: 5234
+Preprocessing:  34%|███████████████████████████████████████████████████████████████████████████████████▎                                                                                                                                                                | 193/565 [01:02<01:56,  3.19it/s]Video start index: 2
+Video end index: 2587
+Preprocessing:  34%|███████████████████████████████████████████████████████████████████████████████████▊                                                                                                                                                                | 194/565 [01:03<01:43,  3.58it/s]Video start index: 2
+Video end index: 5289
+Preprocessing:  35%|████████████████████████████████████████████████████████████████████████████████████▏                                                                                                                                                               | 195/565 [01:03<01:47,  3.43it/s]Video start index: 2
+Video end index: 3246
+Preprocessing:  35%|████████████████████████████████████████████████████████████████████████████████████▋                                                                                                                                                               | 196/565 [01:03<01:40,  3.68it/s]Video start index: 2
+Video end index: 5401
+Preprocessing:  35%|█████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                               | 197/565 [01:04<01:45,  3.47it/s]Video start index: 2
+Video end index: 4628
+Preprocessing:  35%|█████████████████████████████████████████████████████████████████████████████████████▌                                                                                                                                                              | 198/565 [01:04<01:47,  3.43it/s]Video start index: 2
+Video end index: 5833
+Preprocessing:  35%|█████████████████████████████████████████████████████████████████████████████████████▉                                                                                                                                                              | 199/565 [01:04<01:52,  3.26it/s]Video start index: 2
+Video end index: 4332
+Preprocessing:  35%|██████████████████████████████████████████████████████████████████████████████████████▎                                                                                                                                                             | 200/565 [01:04<01:49,  3.35it/s]Video start index: 2
+Video end index: 3551
+Preprocessing:  36%|██████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                                                             | 201/565 [01:05<01:42,  3.54it/s]Video start index: 2
+Video end index: 5923
+Preprocessing:  36%|███████████████████████████████████████████████████████████████████████████████████████▏                                                                                                                                                            | 202/565 [01:05<01:49,  3.31it/s]Video start index: 2
+Video end index: 5396
+Preprocessing:  36%|███████████████████████████████████████████████████████████████████████████████████████▋                                                                                                                                                            | 203/565 [01:05<01:52,  3.23it/s]Video start index: 2
+Video end index: 3549
+Preprocessing:  36%|████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                            | 204/565 [01:06<01:44,  3.45it/s]Video start index: 2
+Video end index: 6312
+Preprocessing:  36%|████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                                                                           | 205/565 [01:06<01:52,  3.19it/s]Video start index: 2
+Video end index: 7035
+Preprocessing:  36%|████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                                                                           | 206/565 [01:06<02:01,  2.96it/s]Video start index: 2
+Video end index: 6857
+Preprocessing:  37%|█████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                                                                          | 207/565 [01:07<02:07,  2.82it/s]Video start index: 2
+Video end index: 5833
+Preprocessing:  37%|█████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                                                          | 208/565 [01:07<02:05,  2.84it/s]Video start index: 2
+Video end index: 2105
+Preprocessing:  37%|██████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                                                                         | 209/565 [01:07<01:48,  3.29it/s]Video start index: 2
+Video end index: 5167
+Preprocessing:  37%|██████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                                                                         | 210/565 [01:08<01:49,  3.24it/s]Video start index: 2
+Video end index: 5404
+Preprocessing:  37%|███████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                         | 211/565 [01:08<01:51,  3.18it/s]physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1432\Part_12_S_Trial1_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1434\Part_12_S_Trial2_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1436\Part_12_S_Trial3_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1438\Part_12_S_Trial4_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1440\Part_12_S_Trial5_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1442\Part_12_S_Trial6_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1444\Part_12_S_Trial7_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1446\Part_12_S_Trial8_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1448\Part_12_S_Trial9_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1450\Part_12_S_Trial10_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1452\Part_12_S_Trial11_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1454\Part_12_S_Trial12_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1456\Part_12_S_Trial13_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1458\Part_12_S_Trial14_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1460\Part_12_S_Trial15_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1462\Part_12_S_Trial16_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1464\Part_12_S_Trial17_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1466\Part_12_S_Trial18_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1468\Part_12_S_Trial19_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1470\Part_12_S_Trial20_emotion.bdf
+Video start index: 2
+Video end index: 4265
+Preprocessing:  41%|████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                                                               | 232/565 [01:08<00:14, 22.62it/s]Video start index: 2
+Video end index: 5233
+Video start index: 2
+Video end index: 2591
+Video start index: 2
+Video end index: 5287
+Preprocessing:  42%|█████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                                                              | 235/565 [01:09<00:26, 12.28it/s]Video start index: 2
+Video end index: 3245
+Video start index: 2
+Video end index: 5403
+Preprocessing:  42%|██████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                                                             | 237/565 [01:10<00:35,  9.37it/s]Video start index: 2
+Video end index: 4627
+Video start index: 2
+Video end index: 5829
+Preprocessing:  42%|███████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                                                            | 239/565 [01:10<00:45,  7.14it/s]Video start index: 2
+Video end index: 4332
+Video start index: 2
+Video end index: 3546
+Preprocessing:  43%|████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                            | 241/565 [01:11<00:52,  6.15it/s]Video start index: 2
+Video end index: 5924
+Preprocessing:  43%|████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                                                           | 242/565 [01:11<00:59,  5.40it/s]Video start index: 2
+Video end index: 5399
+Preprocessing:  43%|████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                                                           | 243/565 [01:12<01:06,  4.87it/s]Video start index: 2
+Video end index: 3545
+Preprocessing:  43%|█████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                                                          | 244/565 [01:12<01:08,  4.71it/s]Video start index: 2
+Video end index: 6309
+Preprocessing:  43%|█████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                                          | 245/565 [01:12<01:17,  4.13it/s]Video start index: 2
+Video end index: 7035
+Preprocessing:  44%|██████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                                                         | 246/565 [01:13<01:27,  3.64it/s]Video start index: 2
+Video end index: 6851
+Preprocessing:  44%|██████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                                                         | 247/565 [01:13<01:35,  3.33it/s]Video start index: 2
+Video end index: 5832
+Preprocessing:  44%|███████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                         | 248/565 [01:13<01:38,  3.21it/s]Video start index: 2
+Video end index: 2105
+Preprocessing:  44%|███████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                                                        | 249/565 [01:13<01:26,  3.63it/s]Video start index: 2
+Video end index: 5169
+Preprocessing:  44%|███████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                                                        | 250/565 [01:14<01:30,  3.48it/s]Video start index: 2
+Video end index: 5402
+Preprocessing:  44%|████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                                                       | 251/565 [01:14<01:33,  3.36it/s]Video start index: 2
+Video end index: 3547
+Preprocessing:  45%|████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                                       | 252/565 [01:14<01:28,  3.55it/s]Video start index: 2
+Video end index: 5399
+Preprocessing:  45%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                                                      | 253/565 [01:15<01:32,  3.39it/s]Video start index: 2
+Video end index: 5827
+Preprocessing:  45%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                                                      | 254/565 [01:15<01:36,  3.23it/s]Video start index: 2
+Video end index: 6309
+Preprocessing:  45%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                      | 255/565 [01:15<01:43,  3.01it/s]Video start index: 2
+Video end index: 5401
+Preprocessing:  45%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                                                     | 256/565 [01:16<01:42,  3.00it/s]Video start index: 2
+Video end index: 6851
+Preprocessing:  45%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                                                     | 257/565 [01:16<01:49,  2.82it/s]Video start index: 2
+Video end index: 5289
+Preprocessing:  46%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                                                    | 258/565 [01:16<01:47,  2.86it/s]Video start index: 2
+Video end index: 2105
+Preprocessing:  46%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                                    | 259/565 [01:17<01:31,  3.34it/s]Video start index: 2
+Video end index: 5233
+Preprocessing:  46%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                                                   | 260/565 [01:17<01:34,  3.24it/s]Video start index: 2
+Video end index: 5401
+Preprocessing:  46%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                                                   | 261/565 [01:17<01:37,  3.12it/s]Video start index: 2
+Video end index: 4265
+Preprocessing:  46%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                                                  | 262/565 [01:18<01:34,  3.22it/s]Video start index: 2
+Video end index: 5169
+Preprocessing:  47%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                                                  | 263/565 [01:18<01:35,  3.16it/s]Video start index: 2
+Video end index: 2586
+Preprocessing:  47%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                  | 264/565 [01:18<01:24,  3.54it/s]Video start index: 2
+Video end index: 5833
+Preprocessing:  47%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                                                 | 265/565 [01:19<01:31,  3.27it/s]Video start index: 2
+Video end index: 3245
+Preprocessing:  47%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                                 | 266/565 [01:19<01:24,  3.52it/s]Video start index: 2
+Video end index: 7035
+Preprocessing:  47%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                                                | 267/565 [01:19<01:36,  3.09it/s]Video start index: 2
+Video end index: 4626
+Preprocessing:  47%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                                                | 268/565 [01:19<01:34,  3.13it/s]Video start index: 2
+Video end index: 3546
+Preprocessing:  48%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                                               | 269/565 [01:20<01:28,  3.35it/s]Video start index: 2
+Video end index: 4328
+Preprocessing:  48%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                                               | 270/565 [01:20<01:27,  3.37it/s]Video start index: 2
+Video end index: 5923
+Preprocessing:  48%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                               | 271/565 [01:20<01:32,  3.17it/s]physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1822\Part_15_S_Trial1_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1824\Part_15_S_Trial2_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1826\Part_15_S_Trial3_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1828\Part_15_S_Trial4_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1830\Part_15_S_Trial5_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1832\Part_15_S_Trial6_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1834\Part_15_S_Trial7_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1836\Part_15_S_Trial8_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1838\Part_15_S_Trial9_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1840\Part_15_S_Trial10_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1842\Part_15_S_Trial11_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1844\Part_15_S_Trial12_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1846\Part_15_S_Trial13_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1848\Part_15_S_Trial14_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1850\Part_15_S_Trial15_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1852\Part_15_S_Trial16_emotion.bdf
+physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1854\Part_15_S_Trial17_emotion.bdf
+Video start index: 2
+Video end index: 6849
+Preprocessing:  51%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                       | 289/565 [01:21<00:15, 17.77it/s]Video start index: 2
+Video end index: 2105
+Video start index: 2
+Video end index: 6308
+Preprocessing:  52%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                                      | 291/565 [01:21<00:23, 11.82it/s]Video start index: 2
+Video end index: 5402
+Video start index: 2
+Video end index: 5397
+Preprocessing:  52%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                                     | 293/565 [01:22<00:33,  8.16it/s]Video start index: 2
+Video end index: 5169
+Preprocessing:  52%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                                     | 294/565 [01:22<00:38,  6.97it/s]Video start index: 2
+Video end index: 3552
+Preprocessing:  52%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                                    | 295/565 [01:23<00:42,  6.38it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  52%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                    | 296/565 [01:23<00:50,  5.38it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  53%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                                   | 297/565 [01:23<00:57,  4.64it/s]Video start index: 2
+Video end index: 7035
+Preprocessing:  53%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                                   | 298/565 [01:24<01:08,  3.93it/s]Video start index: 2
+Video end index: 5400
+Preprocessing:  53%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                                  | 299/565 [01:24<01:12,  3.67it/s]Video start index: 2
+Video end index: 3546
+Preprocessing:  53%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                                  | 300/565 [01:24<01:10,  3.75it/s]Video start index: 2
+Video end index: 5289
+Preprocessing:  53%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                                  | 301/565 [01:25<01:15,  3.52it/s]Video start index: 2
+Video end index: 5930
+Preprocessing:  53%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                                 | 302/565 [01:25<01:19,  3.30it/s]Video start index: 2
+Video end index: 5233
+Preprocessing:  54%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                 | 303/565 [01:25<01:21,  3.22it/s]Video start index: 2
+Video end index: 4332
+Preprocessing:  54%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                                | 304/565 [01:26<01:19,  3.27it/s]physio_file No such this file: C:\Users\ff\Desktop\hci-tagging-database\Sessions\1984\Part_16_S_Trial17_emotion.bdf
+Video start index: 2
+Video end index: 2104
+Preprocessing:  54%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                               | 306/565 [01:26<00:55,  4.70it/s]Video start index: 2
+Video end index: 5403
+Preprocessing:  54%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                               | 307/565 [01:26<01:03,  4.08it/s]Video start index: 2
+Video end index: 6851
+Preprocessing:  55%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                               | 308/565 [01:27<01:13,  3.48it/s]Video start index: 2
+Video end index: 5169
+Preprocessing:  55%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                              | 309/565 [01:27<01:16,  3.34it/s]Video start index: 2
+Video end index: 6308
+Preprocessing:  55%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                              | 310/565 [01:27<01:22,  3.10it/s]Video start index: 2
+Video end index: 5833
+Preprocessing:  55%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                             | 311/565 [01:28<01:24,  3.01it/s]Video start index: 2
+Video end index: 5397
+Preprocessing:  55%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                             | 312/565 [01:28<01:24,  2.98it/s]Video start index: 2
+Video end index: 7035
+Preprocessing:  55%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                            | 313/565 [01:28<01:30,  2.78it/s]Video start index: 2
+Video end index: 3546
+Preprocessing:  56%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                            | 314/565 [01:29<01:22,  3.04it/s]Video start index: 2
+Video end index: 3546
+Preprocessing:  56%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                            | 315/565 [01:29<01:16,  3.29it/s]Video start index: 2
+Video end index: 5827
+Preprocessing:  56%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                           | 316/565 [01:29<01:19,  3.13it/s]Video start index: 2
+Video end index: 5924
+Preprocessing:  56%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                           | 317/565 [01:30<01:22,  3.01it/s]Video start index: 2
+Video end index: 5403
+Preprocessing:  56%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                          | 318/565 [01:30<01:22,  2.99it/s]Video start index: 2
+Video end index: 4332
+Preprocessing:  56%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                          | 319/565 [01:30<01:19,  3.10it/s]Video start index: 2
+Video end index: 5287
+Preprocessing:  57%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                         | 320/565 [01:31<01:19,  3.08it/s]Video start index: 2
+Video end index: 4632
+Preprocessing:  57%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                         | 321/565 [01:31<01:18,  3.12it/s]Video start index: 2
+Video end index: 5235
+Preprocessing:  57%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                         | 322/565 [01:31<01:18,  3.09it/s]Video start index: 2
+Video end index: 3246
+Preprocessing:  57%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                        | 323/565 [01:31<01:11,  3.36it/s]Video start index: 2
+Video end index: 4272
+Preprocessing:  57%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                        | 324/565 [01:32<01:11,  3.39it/s]Video start index: 2
+Video end index: 2590
+Preprocessing:  58%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                       | 325/565 [01:32<01:04,  3.74it/s]Video start index: 2
+Video end index: 5401
+Preprocessing:  58%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                       | 326/565 [01:32<01:09,  3.43it/s]Video start index: 2
+Video end index: 5168
+Preprocessing:  58%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                      | 327/565 [01:33<01:12,  3.28it/s]Video start index: 2
+Video end index: 2105
+Preprocessing:  58%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                      | 328/565 [01:33<01:03,  3.72it/s]Video start index: 2
+Video end index: 5829
+Preprocessing:  58%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                      | 329/565 [01:33<01:10,  3.37it/s]Video start index: 2
+Video end index: 6851
+Preprocessing:  58%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                     | 330/565 [01:34<01:17,  3.05it/s]Video start index: 2
+Video end index: 7029
+Preprocessing:  59%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                     | 331/565 [01:34<01:23,  2.82it/s]Video start index: 2
+Video end index: 6313
+Preprocessing:  59%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                    | 332/565 [01:34<01:24,  2.75it/s]Video start index: 2
+Video end index: 3546
+Preprocessing:  59%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                    | 333/565 [01:35<01:16,  3.03it/s]Video start index: 2
+Video end index: 5396
+Preprocessing:  59%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                                   | 334/565 [01:35<01:16,  3.00it/s]Video start index: 2
+Video end index: 5923
+Preprocessing:  59%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                   | 335/565 [01:35<01:18,  2.93it/s]Video start index: 2
+Video end index: 3546
+Preprocessing:  59%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                   | 336/565 [01:36<01:11,  3.19it/s]Video start index: 2
+Video end index: 4332
+Preprocessing:  60%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                  | 337/565 [01:36<01:10,  3.25it/s]Video start index: 2
+Video end index: 5829
+Preprocessing:  60%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                                  | 338/565 [01:36<01:13,  3.09it/s]Video start index: 2
+Video end index: 4627
+Preprocessing:  60%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                 | 339/565 [01:37<01:13,  3.09it/s]Video start index: 2
+Video end index: 5401
+Preprocessing:  60%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                 | 340/565 [01:37<01:14,  3.03it/s]Video start index: 2
+Video end index: 3246
+Preprocessing:  60%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                                | 341/565 [01:37<01:07,  3.31it/s]Video start index: 2
+Video end index: 5286
+Preprocessing:  61%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                                | 342/565 [01:38<01:09,  3.19it/s]Video start index: 2
+Video end index: 2590
+Preprocessing:  61%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                               | 343/565 [01:38<01:02,  3.57it/s]Video start index: 2
+Video end index: 5232
+Preprocessing:  61%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                               | 344/565 [01:38<01:05,  3.38it/s]Video start index: 2
+Video end index: 4266
+Preprocessing:  61%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                               | 345/565 [01:38<01:05,  3.37it/s]Video start index: 2
+Video end index: 5167
+Preprocessing:  61%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                              | 346/565 [01:39<01:07,  3.24it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  61%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                              | 347/565 [01:39<01:10,  3.09it/s]Video start index: 2
+Video end index: 5401
+Preprocessing:  62%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                             | 348/565 [01:39<01:11,  3.05it/s]Video start index: 2
+Video end index: 7028
+Preprocessing:  62%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                             | 349/565 [01:40<01:16,  2.82it/s]Video start index: 2
+Video end index: 2105
+Preprocessing:  62%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                            | 350/565 [01:40<01:05,  3.26it/s]Video start index: 2
+Video end index: 3547
+Preprocessing:  62%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                            | 351/565 [01:40<01:02,  3.43it/s]Video start index: 2
+Video end index: 6849
+Preprocessing:  62%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                            | 352/565 [01:41<01:09,  3.08it/s]Video start index: 2
+Video end index: 5930
+Preprocessing:  62%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                           | 353/565 [01:41<01:11,  2.96it/s]Video start index: 2
+Video end index: 6312
+Preprocessing:  63%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                           | 354/565 [01:41<01:14,  2.85it/s]Video start index: 2
+Video end index: 4327
+Preprocessing:  63%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                          | 355/565 [01:42<01:10,  2.99it/s]Video start index: 2
+Video end index: 5397
+Preprocessing:  63%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                          | 356/565 [01:42<01:10,  2.97it/s]Video start index: 2
+Video end index: 4626
+Preprocessing:  63%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                         | 357/565 [01:42<01:08,  3.06it/s]Video start index: 2
+Video end index: 3545
+Preprocessing:  63%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                         | 358/565 [01:43<01:02,  3.29it/s]Video start index: 2
+Video end index: 3245
+Preprocessing:  64%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                         | 359/565 [01:43<00:58,  3.53it/s]ideo start index: 2
+Video end index: 5828
+Preprocessing:  64%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                        | 360/565 [01:43<01:03,  3.22it/s]Video start index: 2
+Video end index: 2592
+Preprocessing:  64%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                        | 361/565 [01:43<00:57,  3.57it/s]Video start index: 2
+Video end index: 5402
+Preprocessing:  64%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                       | 362/565 [01:44<01:02,  3.27it/s]Video start index: 2
+Video end index: 4265
+Preprocessing:  64%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                       | 363/565 [01:44<01:01,  3.29it/s]Video start index: 2
+Video end index: 5287
+Preprocessing:  64%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                      | 364/565 [01:44<01:03,  3.14it/s]Video start index: 2
+Video end index: 5238
+Preprocessing:  65%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                      | 365/565 [01:45<01:05,  3.04it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  65%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                      | 366/565 [01:45<01:09,  2.87it/s]Video start index: 2
+Video end index: 7034
+Preprocessing:  65%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                     | 367/565 [01:46<01:13,  2.69it/s]Video start index: 2
+Video end index: 5167
+Preprocessing:  65%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                     | 368/565 [01:46<01:11,  2.76it/s]Video start index: 2
+Video end index: 3546
+Preprocessing:  65%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                                    | 369/565 [01:46<01:04,  3.04it/s]Video start index: 2
+Video end index: 5401
+Preprocessing:  65%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                    | 370/565 [01:47<01:05,  2.99it/s]Video start index: 2
+Video end index: 5924
+Preprocessing:  66%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                   | 371/565 [01:47<01:07,  2.88it/s]Video start index: 2
+Video end index: 2104
+Preprocessing:  66%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                   | 372/565 [01:47<00:59,  3.27it/s]Video start index: 2
+Video end index: 4327
+Preprocessing:  66%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                   | 373/565 [01:47<00:58,  3.27it/s]Video start index: 2
+Video end index: 6851
+Preprocessing:  66%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                  | 374/565 [01:48<01:04,  2.98it/s]Video start index: 2
+Video end index: 4626
+Preprocessing:  66%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                                  | 375/565 [01:48<01:02,  3.06it/s]Video start index: 2
+Video end index: 6313
+Preprocessing:  67%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                 | 376/565 [01:49<01:07,  2.82it/s]Video start index: 2
+Video end index: 3246
+Preprocessing:  67%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                 | 377/565 [01:49<01:00,  3.09it/s]Video start index: 2
+Video end index: 5399
+Preprocessing:  67%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                | 378/565 [01:49<01:02,  3.01it/s]Video start index: 2
+Video end index: 2591
+Preprocessing:  67%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                                | 379/565 [01:49<00:54,  3.39it/s]Video start index: 2
+Video end index: 3545
+Preprocessing:  67%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                | 380/565 [01:50<00:52,  3.54it/s]Video start index: 2
+Video end index: 4266
+Preprocessing:  67%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                               | 381/565 [01:50<00:52,  3.48it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  68%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                               | 382/565 [01:50<00:56,  3.22it/s]Video start index: 2
+Video end index: 5234
+Preprocessing:  68%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                              | 383/565 [01:51<00:58,  3.11it/s]Video start index: 2
+Video end index: 5401
+Preprocessing:  68%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                              | 384/565 [01:51<00:59,  3.06it/s]Video start index: 2
+Video end index: 5288
+Preprocessing:  68%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                             | 385/565 [01:51<00:59,  3.02it/s]Video start index: 2
+Video end index: 7034
+Preprocessing:  68%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                             | 386/565 [01:52<01:04,  2.76it/s]Video start index: 2
+Video end index: 3549
+Preprocessing:  68%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                            | 387/565 [01:52<00:58,  3.03it/s]Video start index: 2
+Video end index: 5828
+Preprocessing:  69%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                            | 388/565 [01:52<01:00,  2.94it/s]Video start index: 2
+Video end index: 5923
+Preprocessing:  69%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                            | 389/565 [01:53<01:01,  2.88it/s]Video start index: 2
+Video end index: 5168
+Preprocessing:  69%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                           | 390/565 [01:53<01:00,  2.90it/s]Video start index: 2
+Video end index: 4333
+Preprocessing:  69%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                           | 391/565 [01:53<00:57,  3.00it/s]Video start index: 2
+Video end index: 5403
+Preprocessing:  69%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                          | 392/565 [01:54<00:59,  2.93it/s]Video start index: 2
+Video end index: 4626
+Preprocessing:  70%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                          | 393/565 [01:54<00:57,  2.98it/s]Video start index: 2
+Video end index: 2104
+Preprocessing:  70%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                         | 394/565 [01:54<00:50,  3.41it/s]Video start index: 2
+Video end index: 3245
+Preprocessing:  70%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                         | 395/565 [01:55<00:47,  3.60it/s]Video start index: 2
+Video end index: 6848
+Preprocessing:  70%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                         | 396/565 [01:55<00:53,  3.15it/s]Video start index: 2
+Video end index: 2591
+Preprocessing:  70%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                        | 397/565 [01:55<00:47,  3.52it/s]Video start index: 2
+Video end index: 6314
+Preprocessing:  70%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                        | 398/565 [01:56<00:52,  3.17it/s]Video start index: 2
+Video end index: 4266
+Preprocessing:  71%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                       | 399/565 [01:56<00:50,  3.26it/s]Video start index: 2
+Video end index: 5399
+Preprocessing:  71%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                       | 400/565 [01:56<00:52,  3.14it/s]Video start index: 2
+Video end index: 5234
+Preprocessing:  71%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                      | 401/565 [01:56<00:53,  3.07it/s]Video start index: 2
+Video end index: 3552
+Preprocessing:  71%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                      | 402/565 [01:57<00:49,  3.30it/s]Video start index: 2
+Video end index: 5288
+Preprocessing:  71%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                      | 403/565 [01:57<00:50,  3.18it/s]Video start index: 2
+Video end index: 5827
+Preprocessing:  72%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                     | 404/565 [01:57<00:53,  3.03it/s]Video start index: 2
+Video end index: 5405
+Preprocessing:  72%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                     | 405/565 [01:58<00:54,  2.95it/s]Video start index: 2
+Video end index: 3547
+Preprocessing:  72%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                    | 406/565 [01:58<00:50,  3.17it/s]Video start index: 2
+Video end index: 5923
+Preprocessing:  72%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                    | 407/565 [01:58<00:52,  3.03it/s]Video start index: 2
+Video end index: 7034
+Preprocessing:  72%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                   | 408/565 [01:59<00:56,  2.78it/s]Video start index: 2
+Video end index: 4327
+Preprocessing:  72%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                   | 409/565 [01:59<00:53,  2.91it/s]Video start index: 2
+Video end index: 5833
+Preprocessing:  73%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                   | 410/565 [02:00<00:53,  2.87it/s]Video start index: 2
+Video end index: 4626
+Preprocessing:  73%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                  | 411/565 [02:00<00:51,  2.97it/s]Video start index: 2
+Video end index: 5170
+Preprocessing:  73%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                                  | 412/565 [02:00<00:51,  2.99it/s]Video start index: 2
+Video end index: 3247
+Preprocessing:  73%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                                                                 | 413/565 [02:00<00:46,  3.29it/s]Video start index: 2
+Video end index: 5403
+Preprocessing:  73%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                                 | 414/565 [02:01<00:47,  3.19it/s]Video start index: 2
+Video end index: 2590
+Preprocessing:  73%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                | 415/565 [02:01<00:41,  3.57it/s]Video start index: 2
+Video end index: 2107
+Preprocessing:  74%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                                                                | 416/565 [02:01<00:37,  4.00it/s]Video start index: 2
+Video end index: 4272
+Preprocessing:  74%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                | 417/565 [02:01<00:38,  3.81it/s]Video start index: 2
+Video end index: 6851
+Preprocessing:  74%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                               | 418/565 [02:02<00:44,  3.30it/s]Video start index: 2
+Video end index: 5233
+Preprocessing:  74%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                                                               | 419/565 [02:02<00:45,  3.21it/s]Video start index: 2
+Video end index: 6308
+Preprocessing:  74%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                              | 420/565 [02:03<00:48,  2.98it/s]Video start index: 2
+Video end index: 5289
+Preprocessing:  75%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                              | 421/565 [02:03<00:48,  2.97it/s]Video start index: 2
+Video end index: 5397
+Preprocessing:  75%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                             | 422/565 [02:03<00:48,  2.97it/s]Video start index: 2
+Video end index: 5401
+Preprocessing:  75%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋             
+ ['C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1432\\Part_12_S_Trial1_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1434\\Part_12_S_Trial2_emotion.bdf',
+  'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1436\\Part_12_S_Trial3_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1438\\Part_12_S_Trial4_emotion.bdf', 
+  'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1440\\Part_12_S_Trial5_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1442\\Part_12_S_Trial6_emotion.bdf', 
+  'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1444\\Part_12_S_Trial7_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1446\\Part_12_S_Trial8_emotion.bdf', 
+  'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1448\\Part_12_S_Trial9_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1450\\Part_12_S_Trial10_emotion.bdf', 
+  'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1452\\Part_12_S_Trial11_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1454\\Part_12_S_Trial12_emotion.bdf', 
+  'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1456\\Part_12_S_Trial13_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1458\\Part_12_S_Trial14_emotion.bdf', 
+  'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1460\\Part_12_S_Trial15_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1462\\Part_12_S_Trial16_emotion.bdf', 
+  'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1464\\Part_12_S_Trial17_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1466\\Part_12_S_Trial18_emotion.bdf',
+   'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1468\\Part_12_S_Trial19_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1470\\Part_12_S_Trial20_emotion.bdf', 
+   'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1822\\Part_15_S_Trial1_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1824\\Part_15_S_Trial2_emotion.bdf', 
+   'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1826\\Part_15_S_Trial3_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1828\\Part_15_S_Trial4_emotion.bdf', 
+   'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1830\\Part_15_S_Trial5_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1832\\Part_15_S_Trial6_emotion.bdf',
+    'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1834\\Part_15_S_Trial7_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1836\\Part_15_S_Trial8_emotion.bdf', 
+    'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1838\\Part_15_S_Trial9_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1840\\Part_15_S_Trial10_emotion.bdf',
+     'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1842\\Part_15_S_Trial11_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1844\\Part_15_S_Trial12_emotion.bdf', 
+     'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1846\\Part_15_S_Trial13_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1848\\Part_15_S_Trial14_emotion.bdf', 
+     'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1850\\Part_15_S_Trial15_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1852\\Part_15_S_Trial16_emotion.bdf',
+      'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1854\\Part_15_S_Trial17_emotion.bdf', 'C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1984\\Part_16_S_Trial17_emotion.bdf']
+gaze_file failed list: ['C:\\Users\\ff\\Desktop\\hci-tagging-database\\Sessions\\1200\\P10-Rec1-All-Data-New_Section_30.tsv']

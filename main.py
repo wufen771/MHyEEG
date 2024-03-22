@@ -48,8 +48,8 @@ def main(args, n_workers):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--seed', type=int, default=0)
-    parser.add_argument('--train_file_path', type=str, default='hci-tagging-database/torch_datasets/train_augmented_data_Arsl.pt', help='Path to training .pt file')
-    parser.add_argument('--test_file_path', type=str, default='hci-tagging-database/torch_datasets/test_data_Arsl.pt', help='Path to test .pt file')
+    parser.add_argument('--train_file_path', type=str, default='C:\\Users\\ff\\Desktop\\hci-tagging-database\\torch_datasets\\train_augmented_data_Arsl.pt', help='Path to training .pt file')
+    parser.add_argument('--test_file_path', type=str, default='C:\\Users\\ff\\Desktop\\hci-tagging-database\\torch_datasets\\test_data_Arsl.pt', help='Path to test .pt file')
     parser.add_argument('--num_workers', default=1, help="Number of workers, 'max' for maximum number")
     parser.add_argument('--cuda', type=bool, default=True)
     parser.add_argument('--gpu_num', type=int, default=0)

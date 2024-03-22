@@ -35,6 +35,7 @@ def list_files(directory, sorted_dir):
         files.append(single)
     return files
 
+
 class DatasetCreator:
     """loops over subject folders.
     Params:
@@ -63,6 +64,7 @@ class DatasetCreator:
         sub_dir = list_files(self.preproc_data, sorted_dir=False)
         data_list = []
         labels = []
+        print('---1')
         for dir in tqdm(sub_dir, desc='Reading data'):  # for each subject/folder
             subj = int(dir[-2:])
 
@@ -71,16 +73,24 @@ class DatasetCreator:
                                     .format(self.label_kind)), delimiter=',')
 
             # Get each original sample and create dataset samples
-            id_trials = [x.split("/")[-1].partition("_")[0] for x in list_files(dir, sorted_dir=False)] # get beggining of files
+            id_trials = []
+            for x in list_files(dir, sorted_dir=False):
+                id = x.split("\\")[-1].partition("_")[0]
+                if id != "labels":
+                    id_trials.append(id)
+                
+            # id_trials = [x.split("\\")[-1].partition("_")[0] for x in list_files(dir, sorted_dir=False)] # get beggining of files
+
             id_trials = sorted(np.unique(id_trials)[:-1], key=lambda x: int(x))  # remove duplicates, "label", and sort
             for i, id in enumerate(tqdm(id_trials, desc=f'Subject {subj}')):
+
                 pupil_data = np.genfromtxt(os.path.join(dir, '{}_PUPIL.csv'
                                     .format(id)), delimiter=',')
                 gaze_data = np.genfromtxt(os.path.join(dir, '{}_GAZE_COORD.csv'
                                     .format(id)), delimiter=',')
                 eye_dist_data = np.genfromtxt(os.path.join(dir, '{}_EYE_DIST.csv'
                                     .format(id)), delimiter=',')
-                gsr_data = np.genfromtxt(os.path.join(dir, '{}_GSR-NO-BASE.csv'
+                gsr_data = np.genfromtxt(os.path.join(dir, '{}_GSR.csv'
                                     .format(id)), delimiter=',')
                 eeg_data = np.genfromtxt(os.path.join(dir, '{}_EEG.csv'
                                      .format(id)), delimiter=',')
@@ -146,8 +156,131 @@ class DatasetCreator:
 
                     data_list.append([eye, gsr, eeg, ecg])
                     labels.append(label)
-
+        
         return data_list, labels
+
+
+# class DatasetCreator:
+#     """loops over subject folders.
+#     Params:
+#         preproc_data: Folder that contains one folder per subject,
+#                 each of which contain respective label files.
+#         label_kind: Which label to use ["Arsl" or "Vlnc"].
+#         physio_f: sampling frequency of physiological data.
+#         gaze_f: sampling frequency of gaze data.
+#         block_len : number of seconds extracted from the end of each given sample.
+#         sample_len: length in seconds of each generated sample.
+#         overlap: percentage of overlapping between samples."""
+#     def __init__(self, preproc_data, label_kind,
+#                  physio_f, gaze_f, block_len, sample_len, overlap, verbose=False):
+#         self.preproc_data = preproc_data
+#         self.label_kind = label_kind
+#         self.physio_f = physio_f
+#         self.gaze_f = gaze_f
+#         self.block_len = block_len
+#         self.sample_len = sample_len
+#         self.overlap = overlap
+#         self.verbose = verbose
+
+#     def save_to_list(self):
+#         try:
+#             """Grabs data from hierarchical structure and unpacks all values.
+#             Add gathered data to a list as a single sample."""
+#             sub_dir = list_files(self.preproc_data, sorted_dir=False)
+#             print('---- test')
+#             print(sub_dir)
+#             data_list = []
+#             labels = []
+#             for dir in tqdm(sub_dir, desc='Reading data'):  # for each subject/folder
+#                 subj = int(dir[-2:])
+
+#                 # Get labels for current subject and label kind
+#                 all_labels = np.genfromtxt(os.path.join(dir, 'labels_felt{}.csv'  # return Dataframe
+#                                         .format(self.label_kind)), delimiter=',')
+#                 print(all_labels)
+#                 # Get each original sample and create dataset samples
+#                 id_trials = [x.split("/")[-1].partition("_")[0] for x in list_files(dir, sorted_dir=False)] # get beggining of files
+#                 id_trials = sorted(np.unique(id_trials)[:-1], key=lambda x: int(x))  # remove duplicates, "label", and sort
+#                 for i, id in enumerate(tqdm(id_trials, desc=f'Subject {subj}')):
+#                     pupil_data = np.genfromtxt(os.path.join(dir, '{}_PUPIL.csv'
+#                                         .format(id)), delimiter=',')
+#                     gaze_data = np.genfromtxt(os.path.join(dir, '{}_GAZE_COORD.csv'
+#                                         .format(id)), delimiter=',')
+#                     eye_dist_data = np.genfromtxt(os.path.join(dir, '{}_EYE_DIST.csv'
+#                                         .format(id)), delimiter=',')
+#                     gsr_data = np.genfromtxt(os.path.join(dir, '{}_GSR.csv'
+#                                         .format(id)), delimiter=',')
+#                     eeg_data = np.genfromtxt(os.path.join(dir, '{}_EEG.csv'
+#                                         .format(id)), delimiter=',')
+#                     ecg_data = np.genfromtxt(os.path.join(dir, '{}_ECG.csv'
+#                                     .format(id)), delimiter=',')
+
+#                     # Extract last <block_len> seconds for each data
+#                     n_points_block_gaze = self.block_len * self.gaze_f
+#                     n_points_block_physio = self.block_len * self.physio_f
+
+#                     pupil_data = pupil_data[-n_points_block_gaze:]
+#                     gaze_data = gaze_data[-n_points_block_gaze:]
+#                     eye_dist_data = eye_dist_data[-n_points_block_gaze:]
+#                     gsr_data = gsr_data[-n_points_block_physio:]
+#                     eeg_data = eeg_data[-n_points_block_physio:]
+#                     ecg_data = ecg_data[-n_points_block_physio:]
+
+#                     # Extract samples of <sample_len> seconds
+#                     n_points_sample_gaze = self.sample_len * self.gaze_f
+#                     n_points_sample_physio = self.sample_len * self.physio_f
+#                     overlap_step_gaze = int(n_points_sample_gaze * self.overlap)
+#                     overlap_step_physio = int(n_points_sample_physio * self.overlap)
+
+#                     for j, k in zip(range(0, n_points_block_gaze - overlap_step_gaze, n_points_sample_gaze - overlap_step_gaze),
+#                                     range(0, n_points_block_physio - overlap_step_physio, n_points_sample_physio - overlap_step_physio)):
+#                         pupil = pupil_data[j : j + n_points_sample_gaze]
+#                         gaze_coord = gaze_data[j : j + n_points_sample_gaze]
+#                         eye_dist = eye_dist_data[j : j + n_points_sample_gaze]
+#                         gsr = gsr_data[k : k + n_points_sample_physio]
+#                         eeg = eeg_data[k : k + n_points_sample_physio]
+#                         ecg = ecg_data[k : k + n_points_sample_physio]
+                        
+                    
+#                         if (len(pupil) != n_points_sample_gaze or len(gaze_coord) != n_points_sample_gaze or len(eye_dist) != n_points_sample_gaze or
+#                             len(gsr) != n_points_sample_physio or len(eeg) != n_points_sample_physio or len(ecg) != n_points_sample_physio):
+#                             # sanity check on the samples
+#                             print("\033[93mData segment went wrong at subject: {}, sample: {}!\033[0m".format(subj, id))
+
+#                         # Check gaze data noise
+#                         clean_pupil = pupil[pupil != -1]
+#                         clean_gaze_coord = gaze_coord[gaze_coord != -1]
+#                         clean_eye_dist = eye_dist[eye_dist != -1]
+#                         if len(clean_pupil)/len(pupil) < 0.6 or len(clean_gaze_coord)/len(gaze_coord) < 0.6 or len(clean_eye_dist)/len(eye_dist) < 0.6:
+#                             if self.verbose:
+#                                 print("\033[93mGaze segment too noisy for subject: {}, sample: {}, segment:{}!\033[0m"
+#                                         .format(subj, id, str(j//(n_points_sample_gaze - overlap_step_gaze))))
+#                             continue
+
+#                         # Create single variable containing all gaze information
+#                         eye = np.column_stack((pupil, gaze_coord, eye_dist))
+
+#                         # Create tensor for each modality
+#                         eye = torch.FloatTensor(eye)  # transforms list into a serialized (string) tf.TensorProto proto
+#                         gsr = torch.FloatTensor(gsr)
+#                         eeg = torch.FloatTensor(eeg)
+#                         ecg = torch.FloatTensor(ecg)
+#                         label = all_labels[i]
+#                         if label <= 0 and label > 9:  # sanity check on the labels
+#                             print("\033[93mLabels went wrong at subject: {}, sample: {}!\033[0m".format(subj, id))
+#                         if label <=3: label = 0
+#                         elif label >=7: label = 2
+#                         else: label = 1
+
+#                         data_list.append([eye, gsr, eeg, ecg])
+#                         labels.append(label)
+
+#                 print("样本数据：", data_list)  # 样本数据可能是 pupil_data, gaze_data 等等
+#                 print("标签：", labels)
+#             return data_list, labels
+#         except Exception as e:
+#             print("读取错误",e)
+        
 
 def std_for_SNR(signal, noise, snr):
     '''Compute the gain to be applied to the noise to achieve the given SNR in dB'''
@@ -201,35 +334,38 @@ def load_dataset(data, labels, scaling, noise, m, SNR):
         noise (bool): if noise is applied
         m: multiplyg factor for augmentation (m=1 if no augm)
         SNR: which SNR to be used '''
-    dataset = []
+    try:
+        dataset = []
 
-    for i in range(len(data)):
-        sample = data[i]
-        label= labels[i]
-        dataset.append([sample, label])
-        if scaling:
-            dataset.append([scaled_sample(sample, 0.7, 0.8), label])
-            dataset.append([scaled_sample(sample, 1.2, 1.3), label])
-            if noise:
-                for j in range(0, m-3, 3):
+        for i in range(len(data)):
+            sample = data[i]
+            label= labels[i]
+            dataset.append([sample, label])
+            if scaling:
+                dataset.append([scaled_sample(sample, 0.7, 0.8), label])
+                dataset.append([scaled_sample(sample, 1.2, 1.3), label])
+                if noise:
+                    for j in range(0, m-3, 3):
+                        dataset.append([add_gauss_noise(sample, snr=SNR), label])
+                        dataset.append([add_gauss_noise(scaled_sample(sample, 0.7, 0.8), snr=SNR), label])
+                        dataset.append([add_gauss_noise(scaled_sample(sample, 1.2, 1.3), snr=SNR), label])
+            elif noise:
+                for j in range(m-1):
                     dataset.append([add_gauss_noise(sample, snr=SNR), label])
-                    dataset.append([add_gauss_noise(scaled_sample(sample, 0.7, 0.8), snr=SNR), label])
-                    dataset.append([add_gauss_noise(scaled_sample(sample, 1.2, 1.3), snr=SNR), label])
-        elif noise:
-            for j in range(m-1):
-                dataset.append([add_gauss_noise(sample, snr=SNR), label])
 
-    return dataset  # list of lists, each containing a sample(=list of tensors, one per modality) and label
+        return dataset  # list of lists, each containing a sample(=list of tensors, one per modality) and label
+    except Exception as e:
+        print("读取错误",e)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--preproc_data_path', type=str, default='hci-tagging-database/preproc_data', help='Path to folder where preprocessed data was saved')
-    parser.add_argument('--save_path', type=str, default='hci-tagging-database/torch_datasets', help='Path to save .pt files')
+    parser.add_argument('--preproc_data_path', type=str, default='C:\\Users\\ff\Desktop\\code\\MHyEEG\\hci-tagging-database\\preproc_data', help='Path to folder where preprocessed data was saved')
+    parser.add_argument('--save_path', type=str, default='C:\\Users\\ff\\Desktop\\hci-tagging-database\\torch_datasets', help='Path to save .pt files')
     parser.add_argument('--label_kind', type=str, default='Arsl', help="Choose valence (Vlnc) or arousal (Arsl) label")
     parser.add_argument('--seed', type=int, default=0)
     parser.add_argument('--verbose', type=bool, action=argparse.BooleanOptionalAction, default=False)
     args = parser.parse_args()
-
+    
     assert args.label_kind in ["Arsl", "Vlnc"]
     print("Creating dataset for label: ", args.label_kind)
 
@@ -238,8 +374,11 @@ if __name__ == '__main__':
     d = DatasetCreator(args.preproc_data_path, args.label_kind, physio_f = 128, gaze_f = 60, block_len = 30, sample_len=10, overlap = 0, verbose=args.verbose)  # create object
     data, labels = d.save_to_list()  # call method
     print(len(data))
+    #print("数据集形状：", data.shape)
 
     test_size = 0.2
+    # trian_size = 0.8
+
     X_train, X_test, y_train, y_test = train_test_split(data, labels, test_size=test_size, random_state=args.seed, stratify=labels)
     
     # Augmentation
@@ -257,5 +396,5 @@ if __name__ == '__main__':
     if not os.path.exists(args.save_path):
         os.makedirs(args.save_path)
         
-    torch.save(train_data, f'{args.save_path}/train_augmented_data_{args.label_kind}.pt')
-    torch.save(test_data,  f'{args.save_path}/test_data_{args.label_kind}.pt')
+    torch.save(train_data, f'{args.save_path}\\train_augmented_data_{args.label_kind}.pt')
+    torch.save(test_data,  f'{args.save_path}\\test_data_{args.label_kind}.pt')
